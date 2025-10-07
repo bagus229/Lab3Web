@@ -7,10 +7,9 @@
 
 ## Langkah-langkah Praktikum
 
-### 1. Membuat dokumen HTML
+### 1. Membuat dokumen HTML dengan nama file lab3_list.html
 
-#### Input
-![Gambar 1](screenshot/slor7.png).
+#### ![Gambar 1](screenshot/yos1.png).
 
 
 #### Ouput
