@@ -9,7 +9,7 @@
 
 ### 1. Membuat dokumen HTML dengan nama file lab3_list.html
 
-#### ![Gambar 1](ss/yos1.png).
+#### ![Gambar 1](yos1.png).
 
 
 #### Ouput
