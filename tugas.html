@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form Dropdown dan Listbox</title>
+  <style>
+     form {
+      display: inline-block;
+      padding: 20px;
+      border: 2px solid #197a43;
+      border-radius: 8px;
+      background-color: white;
+    }
+
+    form label {
+      font-weight: bold;
+      display: block;
+      margin-bottom: 5px;
+      color: #197a43;
+    }
+
+    form select,
+    form input[type="text"],
+    form textarea {
+      border: 1px solid #197a43;
+      padding: 5px;
+      border-radius: 5px;
+      width: 220px;
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Masukan Form</h1>
+
+  <form action="halo">
+    <label for="jurusan">Pilih Jurusan:</label><br>
+    <select name="jurusan" id="jurusan">
+      <option value="">Pilih Jurusan</option>
+      <option value="ti">Teknik Informatika</option>
+      <option value="ta">Teknik Arsitektur</option>
+      <option value="ak">Akuntansi</option>
+    </select><br><br>
+
+    <label for="hobi">Pilih Hobi:</label><br>
+    <select name="hobi" id="hobi" multiple size="5">
+      <option value="membaca">Membaca</option>
+      <option value="menulis">Menulis</option>
+      <option value="olahraga">Olahraga</option>
+      <option value="maingame">Main game</option>
+      <option value="ngoding">Ngoding</option>
+    </select><br><br>
+
+    <input type="submit" value="Kirim">
+  </form>
+
+</body>
+</html>
+
+
