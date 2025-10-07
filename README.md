@@ -9,7 +9,7 @@
 
 ### 1. Membuat dokumen HTML dengan nama file lab3_list.html
 #### Input:
-![Gambar 1](yos1.png). weidt="700"
+![Gambar 1](yos1.png weidt="500").
 
 
 ### Membuat Ordered List
